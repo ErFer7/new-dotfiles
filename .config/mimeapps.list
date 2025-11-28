@@ -1,0 +1,8 @@
+[Added Associations]
+image/png=gwenview-3.desktop;gwenview-2.desktop;gwenview.desktop;
+
+[Default Applications]
+image/png=gwenview-3.desktop;
+text/markdown=nvim.desktop;
+application/pdf=papers.desktop;
+application/x-python-code=nvim.desktop;

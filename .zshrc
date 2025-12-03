@@ -2,6 +2,7 @@
 PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 PATH=$HOME/Executables:$PATH
 PATH=/usr/lib/rustup/bin/:$PATH
+PATH=$HOME/.cargo/bin:$PATH
 
 # Path
 export PATH=$PATH
